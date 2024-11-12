@@ -14,7 +14,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
 nltk.download('punkt')
-test_texts = [ "вот в инете откапал такую интеерсную статейку",
+test_texts = [ "вот в инете откапал такую n интеерсную статейку",
     "предлагаю вашему внимани",
     "может и в_правду лутше тебе молчать",
     "утром мы сидели как сычи",
